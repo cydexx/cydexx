@@ -29,7 +29,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-```dart
+```js
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
@@ -41,5 +41,4 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
-```
 ```
