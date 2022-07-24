@@ -33,5 +33,5 @@ class About extends Me {
   <div align="center">
   <a  href="https://github.com/cydexx">
     
-    <img src="https://images-ext-1.discordapp.net/external/g9fyIlKbbyAZeTXl_Nd4_PIL6SQtU64_rvcRF0OiSU8"/>
+    <img src="dino.gif"/>
   </div>
