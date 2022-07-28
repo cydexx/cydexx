@@ -1,3 +1,3 @@
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-    <img src="dino.gif"/>
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27fd4a29-4738-404b-bea2-61f23e2f3085/ddbytbe-896f805f-a71d-42a2-8ea8-51ba67790e04.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3ZmQ0YTI5LTQ3MzgtNDA0Yi1iZWEyLTYxZjIzZTJmMzA4NVwvZGRieXRiZS04OTZmODA1Zi1hNzFkLTQyYTItOGVhOC01MWJhNjc3OTBlMDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lp3aMhFGCwXGGIbSNNGLYkVdqAV0rIkPJVTyoZENUF8"/>
