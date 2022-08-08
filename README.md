@@ -1,1 +1,1 @@
-<p><img src="hornet.gif" />test writing</p>
+<p align="center"><img src="hornet.gif" /></p>
