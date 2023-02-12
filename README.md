@@ -44,4 +44,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cydexx&show_icons=true&theme=great-gatsby&count_private=true&hide_border=true" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cydexx&theme=great-gatsby&layout=compact" align="center" />
   </div>  
-
+<img src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg" alt="GitHub Snake" width="100%"/>
