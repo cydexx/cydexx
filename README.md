@@ -1,6 +1,6 @@
 <div align="center"><img src="hornet.gif" /> </div>
 
-## My Skill Set 
+
 <div align="center">  
 <table><tr><td valign="top" width="33%">
   
@@ -37,3 +37,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cydexx&show_icons=true&theme=great-gatsby&count_private=true&hide_border=true&layout=compact" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cydexx&theme=great-gatsby&hide_border=true&layout=compact" align="center" />
 </div>  
+
+<h1 align="center">Check Out These Repositories</h1>
+ 
+<div align="center">
+   <a href="https://github.com/cydexx/Satanichia">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydexx&repo=Satanichia&theme=great-gatsby&hide_border=true" />
+  </a>
+  <a href="https://github.com/cydexx/nft-marketplace-website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydexx&repo=nft-marketplace-website&theme=great-gatsby&hide_border=true" />
+  </a>
+  <a href="https://github.com/cydexx/food-delivery-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydexx&repo=food-delivery-app&theme=great-gatsby&hide_border=true" />
+  </a>
+  <a href="https://github.com/cydexx/google-in-1998">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydexx&repo=google-in-1998&theme=great-gatsby&hide_border=true" />
+  </a>
+</div> 
