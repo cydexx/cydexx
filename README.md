@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="hornet.gif" />  
-</div>
+<img align='right' src="https://lanyard.cnrad.dev/api/423919681007648768?bg=291B3E&borderRadius=5px&idleMessage=Probably%20chilling...">
+<img align='left' height="300px" width="auto" src="hornet.gif" />  
+
+
+![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fcydexx)
+
+
+
 <img width="30%"  src="https://user-images.githubusercontent.com/45735208/224174308-883a30bd-bc64-43e1-97ea-28b6da9132ac.png" />  
 <a href="https://cydexx.github.io">
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,next,figma,html,css,sass,tailwind,mongodb&perline=5" alt="super cool portfolio img" />
