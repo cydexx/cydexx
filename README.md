@@ -3,7 +3,7 @@
     <img align='' src="https://lanyard.cnrad.dev/api/423919681007648768?bg=291B3E&borderRadius=5px&idleMessage=Probably%20chilling...">
 
 
-![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fcydexx)
+![Profile Viewed](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fcydexx)
 </div>
 
 
