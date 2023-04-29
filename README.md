@@ -20,21 +20,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cydexx&show_icons=true&count_private=true&layout=compact&title_color=8965d6&text_color=8282f5&icon_color=d41ed4&bg_color=291B3E&border_color=19051c" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cydexx&layout=compact&title_color=8965d6&text_color=8282f5&icon_color=d41ed4&bg_color=291B3E&border_color=19051c" align="center" />
 </div>   -->
-<details align="center">
-<summary>Repos</summary>
+<!-- <details align="center">
+ <summary>Repos</summary>  -->
 <div align="center">
     <h1 align="center">Check Out These Repositories</h1>
+    <a href="https://github.com/cydexx/chatgpt-dnd-character-generator">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydexx&repo=chatgpt-dnd-character-generator&title_color=8965d6&text_color=8282f5&icon_color=d41ed4&bg_color=291B3E&border_color=19051c" />
+    </a>
+    <a href="https://github.com/cydexx/satanichia-chat-bot">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydexx&repo=satanichia-chat-bot&title_color=8965d6&text_color=8282f5&icon_color=d41ed4&bg_color=291B3E&border_color=19051c" />
+    </a>
     <a href="https://github.com/cydexx/nft-marketplace-website">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydexx&repo=nft-marketplace-website&title_color=8965d6&text_color=8282f5&icon_color=d41ed4&bg_color=291B3E&border_color=19051c" />
     </a>
     <a href="https://github.com/cydexx/food-delivery-app">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydexx&repo=food-delivery-app&title_color=8965d6&text_color=8282f5&icon_color=d41ed4&bg_color=291B3E&border_color=19051c" />
-    </a>
-    <a href="https://github.com/cydexx/satanichia-chat-bot">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydexx&repo=satanichia-chat-bot&title_color=8965d6&text_color=8282f5&icon_color=d41ed4&bg_color=291B3E&border_color=19051c" />
-    </a>
-    <a href="https://github.com/cydexx/chatgpt-dnd-character-generator">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydexx&repo=chatgpt-dnd-character-generator&title_color=8965d6&text_color=8282f5&icon_color=d41ed4&bg_color=291B3E&border_color=19051c" />
     </a>
 </div> 
 </details>
