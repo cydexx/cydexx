@@ -2,7 +2,7 @@
 <img align="right" src="https://lanyard.cnrad.dev/api/423919681007648768?bg=291B3E&borderRadius=5px&idleMessage=Probably%20chilling...">
 <img  height="300px" width="auto" src="hornet.gif" />  
 
-![Profile Viewed](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fcydexx)
+<!--![Profile Viewed](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fcydexx)-->
 
 ## Technologies and Tools
 
